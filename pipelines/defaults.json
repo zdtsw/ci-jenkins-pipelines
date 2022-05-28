@@ -1,7 +1,7 @@
 {
     "repository"             : {
         "build_url"          : "https://github.com/zdtsw/temurin-build.git",
-        "build_branch"       : "wenzhou/debug1",
+        "build_branch"       : "fix/JAVAHOMESolaris",
         "test_dirs"          : "/test/functional",
         "pipeline_url"       : "https://github.com/adoptium/ci-jenkins-pipelines.git",
         "pipeline_branch"    : "master"
